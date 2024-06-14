@@ -1,0 +1,5 @@
+[submodule "build"]
+	path = build
+	url = ../../google/googletest.git
+	branch = v1.8.x
+	update = rebase
